@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="nutz-web" default="run" basedir=".">
+<project name="woods-combine" default="run" basedir=".">
 	<description>
        woods-combine library build file
     </description>
